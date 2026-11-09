@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**mjsemaha/mjsemaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a herpetologist and ecologist based in Tétouan, Morocco
 
